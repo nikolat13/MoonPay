@@ -1,2 +1,2 @@
-# MoonPay
-MoonPay .NET/C# Library
+# ProyectMax
+ProyectMax .NET/C# Library
